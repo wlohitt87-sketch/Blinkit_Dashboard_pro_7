@@ -31,7 +31,7 @@
 ### 2. Dashboard Features & KPIs
 
 
-**1. Top-Level KPIs**
+  **1. Top-Level KPIs**
 
 💰 Total Sales: $1.20M
 
@@ -42,14 +42,14 @@
 ⭐ Average Rating: 3.9
 
 
-**2. Sales by Year (Outlet Establishment Trend)**
+  **2. Sales by Year (Outlet Establishment Trend)**
 
 Shows sales performance from 2012 to 2022
 
 Peak sales in 2018 ($205K), gradual stabilization afterward
 
 
-**3. Sales Breakdown**
+  **3. Sales Breakdown**
 
 By Item Type:
 Highest-selling categories include:
