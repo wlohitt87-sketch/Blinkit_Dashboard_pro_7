@@ -6,4 +6,4 @@
 ### Project Title: Sales Performance Dashboard for Blinkit.
 
 ### Tools Used
--**Power BI: Used for both data cleaning and dashboard creation.**
+- **Power BI: Used for both data cleaning and dashboard creation.**
