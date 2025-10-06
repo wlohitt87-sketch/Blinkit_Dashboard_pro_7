@@ -8,6 +8,7 @@
 ### Tools Used :
 - **Power BI: Used for both data cleaning and dashboard creation.**
 
+
 ### 1. Data Preparation & Cleaning (in Power BI)
 
 - Performed within Power BI using Power Query:
@@ -26,7 +27,9 @@
   3. Average Ratings
   4. No of Item
 
+
 ### 2. Dashboard Features & KPIs
+
 
 **1. Top-Level KPIs**
 
@@ -38,11 +41,13 @@
 
 ⭐ Average Rating: 3.9
 
+
 **2. Sales by Year (Outlet Establishment Trend)**
 
 Shows sales performance from 2012 to 2022
 
 Peak sales in 2018 ($205K), gradual stabilization afterward
+
 
 **3. Sales Breakdown**
 
@@ -61,6 +66,8 @@ Low Fat: $425.36K
 
 Regular: $776.32K
 
+
+
 ### 3. Filters
 
 Users can dynamically filter the dashboard by:
@@ -70,6 +77,8 @@ Users can dynamically filter the dashboard by:
 - Outlet Size (Small, Medium, High)
 
 - Item Type (Fruits, Dairy, Snacks, etc.)
+
+
 
 ### 4. Key Insights
 
@@ -82,6 +91,7 @@ Users can dynamically filter the dashboard by:
 - Fruits & Snacks are top-performing item types.
 
 - Regular fat items have higher sales than low-fat alternatives.
+
 
 ## Conclusion
 
