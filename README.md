@@ -14,18 +14,14 @@
 
 - Removed duplicates and null values
 
-Filtered invalid or missing entries
+- Filtered invalid or missing entries
 
-Normalized categorical values (e.g., outlet types, item categories)
+- Normalized categorical values (e.g., outlet types, item categories)
 
-Converted data types (e.g., date formats, sales figures)
+- Converted data types (e.g., date formats, sales figures)
 
-Created calculated columns/measures for:
-
-Total Sales
-
-Average Sales
-
-Average Ratings
-
-No of Item
+- **Created calculated columns/measures for**:
+1. Total Sales
+2. Average Sales
+3. Average Ratings
+4. No of Item
