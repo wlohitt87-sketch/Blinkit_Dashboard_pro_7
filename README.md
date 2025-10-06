@@ -8,11 +8,11 @@
 ### Tools Used :
 - **Power BI: Used for both data cleaning and dashboard creation.**
 
-### 1.Data Preparation & Cleaning (in Power BI)
+### 1. Data Preparation & Cleaning (in Power BI)
 
-Performed within Power BI using Power Query:
+- Performed within Power BI using Power Query:
 
-Removed duplicates and null values
+- Removed duplicates and null values
 
 Filtered invalid or missing entries
 
