@@ -21,7 +21,7 @@
 - Converted data types (e.g., date formats, sales figures)
 
 - **Created calculated columns/measures for**:
-1. Total Sales
-2. Average Sales
-3. Average Ratings
-4. No of Item
+  1. Total Sales
+  2. Average Sales
+  3. Average Ratings
+  4. No of Item
