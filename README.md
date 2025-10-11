@@ -1,7 +1,7 @@
 # Project Overview: Blinkit Sales Dashboard using (Power BI)
 
-## Objective:
-**To analyze and visualize key sales metrics of Blinkit across various outlet types, locations, sizes, and product categories to support better decision-making and performance tracking.**
+## Business Requirement:
+**To conduct a comprehensive analysis of Blinkit's sales performance, customer satisfaction, and inventory distribution to identify key insights and opportunities for optimization using various KPIs and visualizations in Power BI.**
 
 ### Project Title: Sales Performance Dashboard for Blinkit.
 
